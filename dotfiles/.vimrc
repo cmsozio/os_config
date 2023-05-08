@@ -14,3 +14,5 @@ set showmatch
 
 # No wrapping
 set nowrap
+
+set laststatus=2
